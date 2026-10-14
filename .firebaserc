@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "fixture-planner"
+  },
+  "targets": {
+    "fixture-planner": {
+      "hosting": {
+        "tourna": [
+          "tourna"
+        ]
+      }
+    }
   }
 }
